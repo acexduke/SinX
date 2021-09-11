@@ -1,7 +1,7 @@
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 print("")
-print ("____  _      __  __\n/ ___|(_)_ __ \ \/ /\n\___ \| | '_ \ \  / \n ___) | | | | |/  \ \n|____/|_|_| |_/_/\_\")
+print ("`____  _      __  __\n/ ___|(_)_ __ \ \/ /\n\___ \| | '_ \ \  / \n ___) | | | | |/  \ \n|____/|_|_| |_/_/\_\`")
 print("""Wᴇʟᴄᴏᴍᴇ ᴛᴏ UʟᴛʀᴀX Usᴇʀʙᴏᴛ Sᴛʀɪɴɢ Gᴇɴᴇʀᴀᴛᴏʀ ʙʏ @Sinx_Support""")
 print("""Kɪɴᴅʟʏ ᴇɴᴇᴛᴇʀ ʏᴏᴜʀ ᴅᴇᴛᴀɪʟs ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ! """)
 
