@@ -29,7 +29,7 @@ while True:
   print(
       "\nWrong phone number \n make sure its with correct country code. Example : +919961998999 ! Kindly Retry"
   )
-  print("")
-  print ("____  _      __  __\n/ ___|(_)_ __ \ \/ /\n\___ \| | '_ \ \  / \n ___) | | | | |/  \ \n|____/|_|_| |_/_/\_\")
+print("")
+print ("`____  _      __  __\n/ ___|(_)_ __ \ \/ /\n\___ \| | '_ \ \  / \n ___) | | | | |/  \ \n`|____/|_|_| |_/_/\_\``")
   continue
  break
