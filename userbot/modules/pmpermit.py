@@ -9,8 +9,7 @@ from sqlalchemy.exc import IntegrityError
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
 from telethon.tl.functions.messages import ReportSpamRequest
 from telethon.tl.types import User
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
-repo = Repo()
+
 from userbot import (
     BOTLOG,
     BOTLOG_CHATID,
@@ -19,14 +18,17 @@ from userbot import (
     LASTMSG,
     LOGS,
     PM_AUTO_BAN,
-    ALIVE_NAME,
 )
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-  "**PMSecurity of My Master....\n\n""**Hi there,I haven't approved you yet to personal message me, Don't spam my inbox.Just say the reason and wait until you get approved.**\n\n""**You Have 4 warnings**"
-
+    "Hi there!!\n\nI haven't approved you yet to personal message me, Don't spam my inbox.Just say the reason and wait until you get approved.\n\n"
+    "If You Spam Automatically I Block You!!! \n\n"
+    "You have 4 warns "
+   
+)
+# =================================================================
 
 
 @register(incoming=True, disable_edited=True, disable_errors=True)
