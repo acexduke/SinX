@@ -18,7 +18,6 @@
     },
     "ALIVE_LOGO": {
       "description": "Show Image/Logo in .alive message. Fill value of image your link image, use telegra.ph or any direct link image",
-      "required": true
       "value": "https://telegra.ph/file/7a2e0dca3bacda9335947.jpg"
     },  	
     "API_KEY": {
@@ -157,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "MahaDev",
+      "value": "Sinneras",
       "required": false
     }
   },
