@@ -11,7 +11,7 @@ Also join [support channel and group](https://t.me/The_Sinners_Empire) Enjoy You
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/msy1717/SINNERSUB)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/acexduke/SinX)
 ------------------------------------------------
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
