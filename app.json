@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/msy1717/SINNERSUB",
-  "website": "https://t.me/msy1717/SINNERSUB",
+  "repository": "https://github.com/acexduke/SinX",
+  "website": "https://github.com/acexduke/SinX",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/msy1717/SINNERSUB",
+      "value": "https://github.com/acexduke/SinX",
       "required": false
     },
     "COUNTRY": {
