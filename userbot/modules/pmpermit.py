@@ -9,7 +9,8 @@ from sqlalchemy.exc import IntegrityError
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
 from telethon.tl.functions.messages import ReportSpamRequest
 from telethon.tl.types import User
-
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
+repo = Repo()
 from userbot import (
     BOTLOG,
     BOTLOG_CHATID,
@@ -18,17 +19,14 @@ from userbot import (
     LASTMSG,
     LOGS,
     PM_AUTO_BAN,
+    ALIVE_NAME,
 )
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-    "Hi This Is Ultra Private Security Protocols!! Mahadev X Userbot Is Online Owner of MahaDev X USERBOT IS OFFICIAL RAM AND SIDDHARTH. Hi I'm the one who keeps chat master messages on this account please don't spam until my master reads your messages \n"
-    "If You Spam Automatically I Block You!!! \n"
-    "Don't Spam 1 - 3 \n"
-    " - Mahadev Userbot - "
-)
-# =================================================================
+  "**PMSecurity of {DEFAULTUSER}\n\n**Hi there , I haven't approved you yet to personal message me, Don't spam my inbox.Just say the reason and wait until you get approved.\n\nYou Have 4 warnings**
+
 
 
 @register(incoming=True, disable_edited=True, disable_errors=True)
