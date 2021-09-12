@@ -3,7 +3,7 @@ This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTR
 
 This is the one and only official υℓтяα χ вσт made by [ Team SINX](https://t.me/The_Sinners_Empire) 
 
-Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
+Also join [support channel and group](https://t.me/The_Sinners_Empire) Enjoy Your Bot!!💝
 
 [![SINχ вσт ℓσgσ](https://telegra.ph/file/7a2e0dca3bacda9335947.jpg)](https://t.me/SinXBots)
 
