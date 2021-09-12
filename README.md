@@ -1,5 +1,5 @@
 # SINX χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a SinX made for telegram. I made this SinX with help of all other SinXs available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official υℓтяα χ вσт made by [ Team SINX](https://t.me/The_Sinners_Empire) 
 
