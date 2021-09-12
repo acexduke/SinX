@@ -1,6 +1,3 @@
-# Copyright (C) 2019 The Mahadev Company LLC.
-#
-# Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
 """ Userbot module for getting information about the server. """
@@ -133,22 +130,22 @@ async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
     logo = ALIVE_LOGO
     output = (
-        f"**The SinX Userbot...\n\nHey, I am alive.** {repo.active_branch.name}`\n"
-        "┏━━━━━━━━━━━━━━━━━━━━━\n"
-        f"**🐍 Python**    :` v{python_version()}\n"
-        f"**⚙️ Telethon**  :` v{version.__version__}\n"
-        f"**👤 User**       :` {DEFAULTUSER}\n"         
-        "┗━━━━━━━━━━━━━━━━━━━━━\n"
+        f"`SinX X  USERBOT IS ON FIRE`! SinX is running on `{repo.active_branch.name}`\n"
+        "`====================================`\n"
+        f"🐍 `Python         :` v{python_version()}\n"
+        f"⚙️ `Telethon       :` v{version.__version__}\n"
+        f"👤 `User           :` {DEFAULTUSER}\n"         
+        "`====================================`\n"
     )
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
-            await bot.send_file(alive.chat_id,caption=output)
+            await bot.send_file(alive.chat_id, logo, caption=output)
             await alive.delete()
         except MediaEmptyError:
             await alive.edit(
-                output + "\n\n *`An error occured"
-                "\n`🌚😂`"
+                output + "\n\n *`The provided logo is invalid."
+                "\nMake sure the link is directed to the logo picture`"
             )
     else:
         await alive.edit(output)
