@@ -25,7 +25,7 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-  "**PMSecurity of My Master....\n\n**Hi there,I haven't approved you yet to personal message me, Don't spam my inbox.Just say the reason and wait until you get approved.\n\nYou Have 4 warnings**"
+  "**PMSecurity of My Master....\n\n""**Hi there,I haven't approved you yet to personal message me, Don't spam my inbox.Just say the reason and wait until you get approved.**\n\n""**You Have 4 warnings**"
 
 
 
