@@ -42,13 +42,13 @@ Made with 💕 by [@The_Sinners_Empire](https://t.me/The_Sinners_Empire). <br />
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/ULTRA-OP/ULTRA-X
-cd ULTRA
+git clone https://github.com/acexduke/SinX
+cd userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m ULTRA
+python3 -m userbot
 ```
 
 An example `local_config.py` file could be:
