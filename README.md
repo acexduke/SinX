@@ -28,8 +28,9 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 # Cʀᴇᴅɪᴛs 📍
 Made with 💕 by [@The_Sinners_Empire](https://t.me/The_Sinners_Empire). <br />
 # Dev's
-•[𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸](https://t.me/aceduke_sinx). <br />
-•[⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀](https://t.me/Godmrunal). <br />
+•**[𝐀𝐂𝐄 𝐃𝐔𝐊𝐄 ⸸](https://t.me/aceduke_sinx)**. <br />
+•**[⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀](https://t.me/Godmrunal)**. <br />
+•**[⚡️ D_A_S_H •🇮🇳•🚀](https://t.me/pubgfrek19)**. <br />
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
